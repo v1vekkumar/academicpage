@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "Creaing state-of-the-art Audio & Speech technologies using Deep Learning"
+excerpt: "About Vivek Kumar"
 author_profile: true
 redirect_from: 
   - /about/
