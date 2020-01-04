@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Angel Investing"
+    url: /angel/
+
   - title: "Publications"
     url: /publications/
 
@@ -18,5 +21,3 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
