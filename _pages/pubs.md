@@ -4,7 +4,8 @@ title: "Angel Investing"
 excerpt: "Publications and Patents"
 author_profile: true
 redirect_from: 
-  - /pubs/
+  - /publications/
+  - /patents/
   - /pubs.html
 ---
 
