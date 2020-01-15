@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /pubs
 title: "Publications and Patents"
 excerpt: "Publications and Patents of Vivek Kumar"
 author_profile: true
