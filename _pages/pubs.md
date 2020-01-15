@@ -1,7 +1,7 @@
 ---
-permalink: /pubs
-title: "Publications and Patents"
-excerpt: "Publications and Patents of Vivek Kumar"
+permalink: /pubs/
+title: "Angel Investing"
+excerpt: "Publications and Patents"
 author_profile: true
 redirect_from: 
   - /pubs/
