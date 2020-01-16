@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Technologist and Angel Investor"
+title: "Technology Leader, Innovator and Angel Investor
+"
 excerpt: "About Vivek Kumar"
 author_profile: true
 redirect_from: 
