@@ -23,6 +23,7 @@ feature_row:
     title: "Squad"
     excerpt: screen sharing with friends
     url: https://squadapp.io
+    btn_class: "btn--light-outline"
   - image_path: proof_logo.png
     alt: "Proof"
     title: "Proof"
