@@ -32,31 +32,76 @@ Large networks of engaged users, differentiated through user experience, and def
 
 
 
-[Voicery](https://www.crunchbase.com/organization/voicery) 
-![Voicery logo][Voicery logo]: Synthesizing realistic human voices using deep neural networks.
+<center>
 
-[Citruslabs ](https://angel.co/company/mindmate)  (formerly  [MindMate](https://www.crunchbase.com/organization/dementcare-ltd)  ) 
-![Citruslabs logo][Citruslabs logo]:Helping people living with cognitive decline 
+<table cellpadding="10" border="0" style="border: 0px solid #000;">
 
 
-[Auris](https://www.crunchbase.com/organization/auris) 
-![Auris logo][Auris logo]: Hassle-free customer and interaction using NLP & AI
+    <tr style="text-align:center">
+        <td border="0" style="border: 0px solid #000;">
+			<a href="https://www.voicery.com/">
+				<img src="/images/voicery_logo.jpeg" alt="Voicery logo" width="100" height="100">
+				
+	    		<h2>Voicery</h2>
+    		</a> 
+			
+			Synthesizing realistic human voices using deep neural networks.
+		</td>
+        <td border="0" style="border: 0px solid #000;">
+			<a href="https://angel.co/company/mindmate">
+				<img src="/images/Citruslabs_logo.png" alt="Citruslabs logo" width="100" height="100">
+				
+	    		<h2>Citruslabs</h2>
+    		</a> 
+			
+			Helping people living with cognitive decline
+		</td>
 
+		<td border="0" style="border: 0px solid #000;">
+			<a href="https://www.crunchbase.com/organization/auris">
+				<img src="/images/Auris_logo.png" alt="Auris logo" width="100" height="100">
+				
+	    		<h2>Auris</h2>
+    		</a> 
+			
+			Hassle-free customer and interaction using NLP
+		</td>     
 
-[Proof Technologies](https://www.crunchbase.com/organization/proof) 
-![proof logo][proof logo]: Increase conversion rate by displaying recent customer activity on your website.
+	</tr>
 
-[Squad](https://www.crunchbase.com/organization/molly)  (formerly Molly) 
-![squd logo][squad logo]: Hang out with friends together in any app.
+	<tr>
 
-[Tangent](https://tangent.ai) 
-![tangent logo][tangent logo]: Personalizing Beauty with Breakthrough AI
+	</tr>
+    <tr style="text-align:center">
+        <td border="0" style="border: 0px solid #000;">
+			<a href="https://www.crunchbase.com/organization/proof">
+				<img src="/images/proof_logo.png" alt="proof logo" width="100" height="100">
+	    		<h2>Proof Technologies</h2>
+    		</a> 
+			
+			Increase conversion rate by displaying recent customer activity on your website.
+		</td>
+        <td border="0" style="border: 0px solid #000;">
+			<a href="https://www.crunchbase.com/organization/molly">
+				<img src="/images/squad_logo.jpeg" alt="squd logo" width="100" height="100">
+				
+	    		<h2>Squad</h2>
+    		</a> 
+			
+			Hang out with friends together in any app.
+		</td>
 
+		<td border="0" style="border: 0px solid #000;">
+			<a href="https://tangent.ai">
+				<img src="/images/tangent_logo.png" alt="tangent logo" width="100" height="100">
+				
+	    		<h2>Tangent</h2>
+    		</a> 
+			
+			Personalizing Beauty with Breakthrough AI
+		</td>     
 
-[squad logo]: /images/squad_logo.jpeg  
-[Voicery logo]: /images/voicery_logo.jpeg 
-[Citruslabs logo]: /images/Citruslabs_logo.png
-[Auris logo]: /images/Auris_logo.png
-[proof logo]: /images/proof_logo.png
-[tangent logo]: /images/tangent_logo.png
+	</tr>
+</table>
 
+</center>
