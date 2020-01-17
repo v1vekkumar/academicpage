@@ -5,6 +5,42 @@ author_profile: true
 redirect_from: 
   - /angelinvesting/
   - /angel.html
+feature_row:
+  - url: https://www.voicery.com
+    image_path: voicery_logo.jpeg
+    alt: "Voicery"
+    title: "Voicery"
+    excerpt: "Synthesizing realistic human voices using deep neural networks"
+    btn_class: "btn--light-outline"
+  - url: https://www.citruslabs.io
+    image_path: Citruslabs_logo.png
+    alt: "CitrusLabs"
+    title: "CitrusLabs"  
+    btn_class: "btn--light-outline"
+    excerpt: A new way of patient recruitment
+  - image_path: squad_logo.jpeg
+    alt: "Squad"
+    title: "Squad"
+    excerpt: screen sharing with friends
+    url: https://squadapp.io
+  - image_path: proof_logo.png
+    alt: "Proof"
+    title: "Proof"
+    btn_class: "btn--light-outline"
+    excerpt: "Website Personalization Made Easy"
+    url: https://useproof.com
+  - image_path: Auris_logo.png
+    url: https://angel.co/company/aurius
+    alt: "Auris"
+    title: "Auris"
+    excerpt: "Hassle-free customer and interaction using NLP"
+    btn_class: "btn--light-outline"
+  - image_path: tangent_logo.png	
+    url: "https://tangent.ai/"
+    title: "Tangent"
+    alt: "Tangent"
+    excerpt: "Personalizing Beauty with Breakthrough AI"
+    btn_class: "btn--light-outline"
 ---
 
 ## Investment Thesis 
@@ -28,80 +64,9 @@ https://avc.com/2018/04/usv-thesis-3-0/
 Large networks of engaged users, differentiated through user experience, and defensible through network effects.
 -->
 
-## Core Investments
+## Portfolio
+
+{% include feature_row caption="This is a sample gallery with **Markdown support**."  %}
 
 
 
-<center>
-
-<table cellpadding="10" border="0" style="border: 0px solid #000;">
-
-
-    <tr style="text-align:center">
-        <td border="0" style="border: 0px solid #000;">
-			<a href="https://www.voicery.com/">
-				<img src="/images/voicery_logo.jpeg" alt="Voicery logo" width="100" height="100">
-				
-	    		<h2>Voicery</h2>
-    		</a> 
-			
-			Synthesizing realistic human voices using deep neural networks.
-		</td>
-        <td border="0" style="border: 0px solid #000;">
-			<a href="https://angel.co/company/mindmate">
-				<img src="/images/Citruslabs_logo.png" alt="Citruslabs logo" width="100" height="100">
-				
-	    		<h2>Citruslabs</h2>
-    		</a> 
-			
-			Helping people living with cognitive decline
-		</td>
-
-		<td border="0" style="border: 0px solid #000;">
-			<a href="https://www.crunchbase.com/organization/auris">
-				<img src="/images/Auris_logo.png" alt="Auris logo" width="100" height="100">
-				
-	    		<h2>Auris</h2>
-    		</a> 
-			
-			Hassle-free customer and interaction using NLP
-		</td>     
-
-	</tr>
-
-	<tr>
-
-	</tr>
-    <tr style="text-align:center">
-        <td border="0" style="border: 0px solid #000;">
-			<a href="https://www.crunchbase.com/organization/proof">
-				<img src="/images/proof_logo.png" alt="proof logo" width="100" height="100">
-	    		<h2>Proof Technologies</h2>
-    		</a> 
-			
-			Increase conversion rate by displaying recent customer activity on your website.
-		</td>
-        <td border="0" style="border: 0px solid #000;">
-			<a href="https://www.crunchbase.com/organization/molly">
-				<img src="/images/squad_logo.jpeg" alt="squd logo" width="100" height="100">
-				
-	    		<h2>Squad</h2>
-    		</a> 
-			
-			Hang out with friends together in any app.
-		</td>
-
-		<td border="0" style="border: 0px solid #000;">
-			<a href="https://tangent.ai">
-				<img src="/images/tangent_logo.png" alt="tangent logo" width="100" height="100">
-				
-	    		<h2>Tangent</h2>
-    		</a> 
-			
-			Personalizing Beauty with Breakthrough AI
-		</td>     
-
-	</tr>
-</table>
-
-</center>
