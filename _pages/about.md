@@ -15,4 +15,11 @@ I lead the Audio AI team, creating state-of-the-art Audio and Speech technologie
 Before this, I led the development of Dolby's core codecs ([Dolby Digital  Plus](https://www.dolby.com/us/en/technologies/dolby-digital-plus.html) & [Dolby TrueHD](https://www.dolby.com/us/en/technologies/dolby-truehd.html) ) and created technologies for [Dolby Atmos](https://www.dolby.com/us/en/technologies/home/dolby-atmos.html). 
 
 ### Angel Investor
-As an angel investor, I have also invested in several early-stage ventures and provide mentoring and strategy development for startups. This has given me the opportunity to work with visionary entrepreneurs and has given me a  perspective of developments and breakthroughs across industries.  
+As an angel investor, I have also invested in several early-stage ventures and provide mentoring and strategy development for startups. This has given me the opportunity to work with visionary entrepreneurs and has given me a  perspective of developments and breakthroughs across industries. 
+
+### Investments
+<sup> 
+	[Learn more ...](/angel/)
+</sup>
+
+[![Investments](/images/portfolio_mini.png "Investments")](/angel/)
