@@ -11,23 +11,23 @@ feature_row:
     alt: "Voicery"
     title: "Voicery"
     excerpt: "Synthesizing realistic human voices using deep neural networks"
-    btn_class: "btn--light-outline"
+    btn_class: "btn--small btn--inverse"
   - url: https://www.citruslabs.io
     image_path: Citruslabs_logo.png
     alt: "CitrusLabs"
     title: "CitrusLabs"  
-    btn_class: "btn--light-outline"
+    btn_class: "btn--small btn--inverse"
     excerpt: A new way of patient recruitment
   - image_path: squad_logo.jpeg
     alt: "Squad"
     title: "Squad"
     excerpt: screen sharing with friends
     url: https://squadapp.io
-    btn_class: "btn--light-outline"
+    btn_class: "btn--small btn--inverse"
   - image_path: proof_logo.png
     alt: "Proof"
     title: "Proof"
-    btn_class: "btn--light-outline"
+    btn_class: "btn--small btn--inverse"
     excerpt: "Website Personalization Made Easy"
     url: https://useproof.com
   - image_path: aurius_logo.png
@@ -35,13 +35,13 @@ feature_row:
     alt: "Auris"
     title: "Auris"
     excerpt: "AI platform for Business Decisions"
-    btn_class: "btn--light-outline"
+    btn_class: "btn--small btn--inverse"
   - image_path: tangent_logo.png	
     url: "https://tangent.ai/"
     title: "Tangent"
     alt: "Tangent"
     excerpt: "Personalizing Beauty with Breakthrough AI"
-    btn_class: "btn--light-outline"
+    btn_class: "btn--small btn--inverse"
 ---
 
 ## Investment Thesis 
