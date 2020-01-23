@@ -30,11 +30,11 @@ feature_row:
     btn_class: "btn--light-outline"
     excerpt: "Website Personalization Made Easy"
     url: https://useproof.com
-  - image_path: Auris_logo.png
-    url: https://angel.co/company/aurius
+  - image_path: aurius_logo.png
+    url: https://Aurius.io
     alt: "Auris"
     title: "Auris"
-    excerpt: "Hassle-free customer and interaction using NLP"
+    excerpt: "AI platform for Business Decisions"
     btn_class: "btn--light-outline"
   - image_path: tangent_logo.png	
     url: "https://tangent.ai/"
