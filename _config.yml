@@ -11,9 +11,9 @@ title                    : "Vivek Kumar"
 title_separator          : "-"
 name                     : &name "Vivek Kumar"
 description              : &description "personal description"
-url                      : https://academicpage.v1vek.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.v1vek.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "v1vekkumar/academicpage"
+repository               : "v1vekkumar/v1vekkumar.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png":
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,13 +83,13 @@ author:
   name             : "Vivek Kumar"
   avatar           : "profile_128x128.jpg" 
   bio              : "Director, Audio AI @ Dolby <BR> Angel Investor"
-  location         : "San Francisco"
-  employer         : "Dolby Laboratories"
+  location         : 
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=fOexgn8AAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -115,6 +115,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  angellist        : "v1vek"
+  crunchbase       : "https://crunchbase.com/person/vivek-kumar-a65c"
 
 
 # Reading Files
@@ -309,5 +311,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-minimal
